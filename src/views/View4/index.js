@@ -8,7 +8,6 @@ export default class View4 extends Component {
         return (
             <div id='view4'  >
             <JobChart/>
-               
             </div>
         )
     }
