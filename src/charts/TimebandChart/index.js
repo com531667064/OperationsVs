@@ -5,7 +5,8 @@ import React, { Component } from 'react';
 
 export default class Timeband extends Component {
     draw =()=> {
-        //在这里画图
+
+
    
     } 
 
